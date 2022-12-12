@@ -1,0 +1,22 @@
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.pdb
