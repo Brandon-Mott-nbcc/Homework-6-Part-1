@@ -26,7 +26,7 @@ namespace Lab5
         //stubed with just returning 5
         private int GetRandom(int MIN, int MAX)
         {
-            Random rand =   Random();
+            Random rand = new Random();
             int randle = rand.Next(MIN, MAX++);
             return randle;
         }
@@ -117,14 +117,15 @@ namespace Lab5
         {
             switch (radText.Checked)
             {
-                   case true:
+                case true:
                     grpText.Show();
                     grpStats.Hide();
+                    break;
                  
                     case false:
                     grpText.Hide();
                     grpStats.Show();
-                   
+                    break;
             }
         }
         //Now create a checked change event for both of the radio buttons and call the SetupOption for both events
@@ -287,7 +288,7 @@ namespace Lab5
             {
                 int value = Convert.ToInt32(lstNumbers.Items[counter]);
                 sum += value;
-                counter+;
+                counter++;
 
             }
             return sum;

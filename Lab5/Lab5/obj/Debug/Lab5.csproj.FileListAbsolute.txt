@@ -20,3 +20,14 @@ C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\o
 C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.exe
 C:\Users\William Fox\Documents\Courses\Intro to Programming\projects\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\coast\Documents\GitHub\Homework-6-Part-1\Lab5\Lab5\bin\Debug\Lab5.pdb
